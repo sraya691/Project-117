@@ -1,0 +1,33 @@
+body {
+    background: rgb(253, 145, 199);
+}
+
+.header_div {
+    background-color: rgb(250, 143, 200);
+    color: rgb(248, 66, 157);
+}
+
+.header_div_p {
+    font-family: 'Playfair Display', serif;;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+.button_div {
+    margin-top: 20px;
+    width: 50px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.copy_right_footer {
+    background-color: aliceblue;
+    color: rgb(248, 163, 234);
+    width: 100%;
+    font-size: 16px;
+    line-height: 3px;
+    text-shadow: 5px 5px 5px rgb(252, 128, 194);
+    position: fixed;
+    bottom: 0;
+}
